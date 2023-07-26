@@ -1,0 +1,81 @@
+[
+ {
+  "nib": {
+   "api_classification": "",
+   "company_name": "pt sertifikasi instalasi prima",
+   "investment_status": "pmdn",
+   "kbli_number": "71204",
+   "nib_number": "9120007172445",
+   "npwp_number": "86.387.054.9-517.000",
+   "telephone_number": "0247470119"
+  }
+ },
+ {
+  "npwp": {
+   "Adress": "komp.btn agraria blok q/3 rt.000 rw.000 karunrung, rappocini makassar, sulawesi selatan",
+   "Code NPWP": "03.026.562.3-805.000",
+   "Name": "pt. fortune excellent network",
+   "registered": "21-01-2010"
+  }
+ },
+ {
+  "sim": {
+   "date_of_birth": "01-07-1939",
+   "ktp_number": "1348-8907-000138",
+   "name": "galih senopati",
+   "place_of_birth": "jakarta"
+  }
+ },
+ {
+  "siup": {
+   "Alamat": "Gd. Cawang Kencana Lt. Dasar, JI. Mayjen Sutoyo Kav. No. 22",
+   "Alamat Perusahaan": "Patra Jasa Office Tower Lt. 11, JI. Jend. Gatoto Subroto Kav. 3234",
+   "Desa/Kelurahan": "Kramatjati",
+   "Dikeluarkan tanggal": "20 Februari 2019",
+   "Kabupaten/Kota": "Kota Adm. Jakarta Timur",
+   "Kecamatan": "Kramatjati",
+   "Kode KBLI": "70209",
+   "Nama KBLI": "AKTIVITAS KONSULTASI MANAJEMEN LAINNYA",
+   "Nama Perusahaan": "CV NOVIAN JASA",
+   "Nomor Induk Berusaha": "9120000261749",
+   "Provinsi": " DKI Jakarta"
+  }
+ },
+ {
+  "skdp": {
+   "building_status": "milik sendiri",
+   "business_address": "ji. delima blok d7 no.6 rt.026 / lk. 1",
+   "business_category": [
+    "pengadaan barang dan jasa",
+    "jual bell desi bekas"
+   ],
+   "citizenship": "indonesia",
+   "company_name": "cv. restu mandir!",
+   "contact_number": [
+    "0721 270631 ",
+    "081369225343"
+   ],
+   "establishment_deed_number": "09 tanggal 07 \u2014 03 - 2012",
+   "gender": "laki-laki",
+   "id_card_number": "18710907096800002",
+   "judicial_approval_letter": "",
+   "name": "suhairi",
+   "occupation": "wiraswasta",
+   "person_in_charge": "suhairi",
+   "place_date_of_birth": [
+    "bandar lampung",
+    "07 \u2014 09 - 1968"
+   ],
+   "religion": "islam",
+   "skdp_number": "503/ iv.58.1v.135/2012",
+   "staff_number": ""
+  }
+ },
+ {
+  "tdp": {
+   "kbli": "46600",
+   "npwp_number": "66.420.434.4-223.000",
+   "tdp_number": "33.05.1.46.00469"
+  }
+ }
+]
